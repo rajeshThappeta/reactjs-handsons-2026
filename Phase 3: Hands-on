@@ -15,7 +15,7 @@ Hands-on:
 
 API to use:
 ----------
-      https://restcountries.com/v3.1/all?fields=name,capital,currencies       → fetch all countries
+      https://restcountries.com/v3.1/all?fields=name,capital,currencies,flags       → fetch all countries
       https://restcountries.com/v3.1/name/india                               → search by name
 
 
